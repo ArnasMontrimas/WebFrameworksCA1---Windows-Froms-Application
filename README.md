@@ -9,10 +9,8 @@ Modify the method in Q1 to display the numbers generated in ascending order and 
 
 ## Question 2.
 
-The following table shows the average seasonal rainfall in millimetres in Ireland in the years 2002 through 2005 :
+The following table shows the average seasonal rainfall in millimetres in Ireland in the years 2016 through 2019 :
 
-
-|      |Year  |      |      |      |
 |Season| 2016 | 2017 | 2018 | 2019 |
 | ---- | :--: | :--: | :--: | :--: |
 |Spring|150   |163   |147   |138   |
