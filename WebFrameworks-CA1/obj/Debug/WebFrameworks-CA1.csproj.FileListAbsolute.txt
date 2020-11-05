@@ -1,0 +1,10 @@
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\bin\Debug\WebFrameworks-CA1.exe.config
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\bin\Debug\WebFrameworks-CA1.exe
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\bin\Debug\WebFrameworks-CA1.pdb
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\obj\Debug\WebFrameworks-CA1.csprojAssemblyReference.cache
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\obj\Debug\WebFrameworks_CA1.Properties.Resources.resources
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\obj\Debug\WebFrameworks-CA1.csproj.GenerateResource.cache
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\obj\Debug\WebFrameworks-CA1.csproj.CoreCompileInputs.cache
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\obj\Debug\WebFrameworks-CA1.exe
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\obj\Debug\WebFrameworks-CA1.pdb
+C:\Users\Arnas\source\repos\WebFrameworks-CA1\WebFrameworks-CA1\obj\Debug\WebFrameworks_CA1.Form1.resources

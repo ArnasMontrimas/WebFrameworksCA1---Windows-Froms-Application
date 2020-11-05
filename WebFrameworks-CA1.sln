@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFrameworks-CA1", "WebFrameworks-CA1\WebFrameworks-CA1.csproj", "{6E459A28-18F1-4C92-9371-D9CB62B1CD81}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{AA991FE1-0D44-44E6-B643-498F80AD91F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E459A28-18F1-4C92-9371-D9CB62B1CD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E459A28-18F1-4C92-9371-D9CB62B1CD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E459A28-18F1-4C92-9371-D9CB62B1CD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E459A28-18F1-4C92-9371-D9CB62B1CD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA991FE1-0D44-44E6-B643-498F80AD91F8}.Debug|Any CPU.ActiveCfg = Debug
+		{AA991FE1-0D44-44E6-B643-498F80AD91F8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DA41C9E-F7C6-4986-B6D9-F7094F981BCD}
+	EndGlobalSection
+EndGlobal
